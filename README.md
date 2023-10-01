@@ -32,7 +32,7 @@ This project aims to utilize various predictive models to see how accurate they 
 
 ## Results 📊
 
-Achieved a model R² value of 0.85, representing the proportion of the variance for the dependent variable that's explained by independent variables in the model. (Replace XX.XX with the actual value)
+Achieved a model R² value of 0.86, representing the proportion of the variance for the dependent variable that's explained by independent variables in the model. (Replace XX.XX with the actual value)
 
 ---
 
